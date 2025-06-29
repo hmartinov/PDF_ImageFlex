@@ -18,6 +18,10 @@
 
 Get the latest version from the [release](https://github.com/hmartinov/PDF_ImageFlex/releases) folder.
 
+## Changelog
+
+See the full list of changes in the [CHANGElOG.md](./CHANGELOG.md) file.
+
 ## License
 
 MIT License – free for personal and commercial use.
