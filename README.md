@@ -16,7 +16,7 @@
 
 ## Download
 
-Get the latest version from the [release](./release/) folder.
+Get the latest version from the [release](https://github.com/hmartinov/PDF_ImageFlex/releases) folder.
 
 ## License
 
